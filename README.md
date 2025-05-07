@@ -21,11 +21,11 @@
 
 `🔭` I’m currently working on: `Squat at home`
 
-`🌱` I’m currently learning: `Any`
+`🌱` I’m currently learning: `C++ Godot JavaScript`
 
-`📫` How to reach me: `Wx: MenPenS0612 QQ: 843261040`
+`📫` How to reach me: `Wechat: SuperLymo QQ: 1475648`
 
-`📮` Email: `843261040@qq.com`
+`📮` Email: `1475648@qq.com`
 
 ## ✨ Github Stats
 
